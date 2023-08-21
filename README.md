@@ -1,7 +1,7 @@
 # Algorithm-study
 
-|![코딩 기초 트레이닝 캘린더](https://github.com/JisooPyo/My-Study/assets/130378232/ecdaf685-54e7-415f-8194-62d2a131a668)|![코딩테스트 입문 캘린더 (1)](https://github.com/JisooPyo/My-Study/assets/130378232/4daaedbf-d6c0-40a1-a8f1-acb7cd183f8e)|
-|---|---|
+| ![코딩 기초 트레이닝 캘린더](https://github.com/JisooPyo/My-Study/assets/130378232/ecdaf685-54e7-415f-8194-62d2a131a668) | ![코딩테스트 입문 캘린더 (1)](https://github.com/JisooPyo/My-Study/assets/130378232/4daaedbf-d6c0-40a1-a8f1-acb7cd183f8e) |
+|---------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------|
 
 Programmers lv.1 완료
 
@@ -9,4 +9,8 @@ Programmers lv.1 완료
 
 Leetcode 시작
 
-1. two-sum
+푼 문제
+
+| 1 | 1480 | 1672 |
+|---|------|------|
+
