@@ -2,9 +2,9 @@ package leetcode.al08;
 
 import java.util.Arrays;
 
-public class TwoSum {
+public class L1 {
 	public static void main(String[] args) {
-		TwoSum t = new TwoSum();
+		L1 t = new L1();
 		int[] nums1 = {2, 7, 11, 15};
 		int target1 = 9;
 		// [0, 1]
