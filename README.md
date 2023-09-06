@@ -22,6 +22,9 @@ Programmers lv.1 완료
 
 #### Array 101
 
-- [x] Max Consecutive Ones
-- [ ] Find Numbers with Even Number of Digits
-- [ ] Squares of a Sorted Array
+* Max Consecutive Ones
+* Find Numbers with Even Number of Digits
+* Squares of a Sorted Array
+* Duplicate Zeros
+* Merge Sorted Array
+* Remove Element
