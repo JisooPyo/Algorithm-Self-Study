@@ -1,11 +1,11 @@
 // 짝지어 제거하기
-package leetcode.al09;
+package programmers.test2309;
 
 import java.util.Stack;
 
-public class ProRemovingInPairs {
+public class RemovingInPairs {
 	public static void main(String[] args) {
-		ProRemovingInPairs rip = new ProRemovingInPairs();
+		RemovingInPairs rip = new RemovingInPairs();
 		System.out.println(rip.solution("iifedcbaabcdefgghh"));
 		System.out.println(rip.solution("cdcd"));
 		System.out.println(rip.solution("baabaa"));

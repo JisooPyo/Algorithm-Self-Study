@@ -1,8 +1,8 @@
-package leetcode.al09;
+package programmers.test2309;
 
-public class ProFibonacci {
+public class Fibonacci {
 	public static void main(String[] args) {
-		ProFibonacci pf = new ProFibonacci();
+		Fibonacci pf = new Fibonacci();
 		System.out.println(pf.solution(3));
 		System.out.println(pf.solution(5));
 		System.out.println(pf.solution(20));
