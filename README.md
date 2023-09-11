@@ -35,6 +35,8 @@ Programmers lv.2 풀이 중
 * 다음 큰 숫자
 * 피보나치 수
 * 짝지어 제거하기
+* 카펫
+* 영어 끝말잇기
 
 </details>
 
@@ -47,7 +49,10 @@ Programmers lv.2 풀이 중
 
 ### 2. LeetCode Explore
 
-#### Array 101
+<details>
+<summary>
+Array 101
+</summary>
 
 * Max Consecutive Ones
 * Find Numbers with Even Number of Digits
@@ -56,3 +61,6 @@ Programmers lv.2 풀이 중
 * Merge Sorted Array
 * Remove Element
 * Remove Duplicates from Sorted Array
+* Check If N and Its Double Exist
+
+</details>
