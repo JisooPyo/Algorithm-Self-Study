@@ -62,5 +62,7 @@ Array 101
 * Remove Element
 * Remove Duplicates from Sorted Array
 * Check If N and Its Double Exist
+* Valid Mountain Array
+* Replace Elements with Greatest Element on Right Side
 
 </details>
