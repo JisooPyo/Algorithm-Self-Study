@@ -54,15 +54,30 @@ Programmers lv.2 풀이 중
 Array 101
 </summary>
 
+#### Introduction
+
 * Max Consecutive Ones
 * Find Numbers with Even Number of Digits
 * Squares of a Sorted Array
+
+#### Inserting Items Into an Array
+
 * Duplicate Zeros
 * Merge Sorted Array
+
+#### Deleting Items From an Array
+
 * Remove Element
 * Remove Duplicates from Sorted Array
+
+#### Searching for Items in an Array
+
 * Check If N and Its Double Exist
 * Valid Mountain Array
+
+#### In-Place Operations
+
 * Replace Elements with Greatest Element on Right Side
+* Remove Duplicates from Sorted Array
 
 </details>
