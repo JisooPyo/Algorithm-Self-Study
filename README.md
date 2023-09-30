@@ -37,6 +37,7 @@ Programmers lv.2 풀이 중
 * 짝지어 제거하기
 * 카펫
 * 영어 끝말잇기
+* 구명보트
 
 </details>
 
@@ -79,5 +80,6 @@ Array 101
 
 * Replace Elements with Greatest Element on Right Side
 * Remove Duplicates from Sorted Array
+* Move Zeroes
 
 </details>
