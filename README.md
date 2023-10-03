@@ -39,6 +39,7 @@ Programmers lv.2 풀이 중
 * 영어 끝말잇기
 * 구명보트
 * 점프와 순간 이동
+* 예상 대진표
 
 </details>
 
@@ -83,5 +84,6 @@ Array 101
 * Remove Duplicates from Sorted Array
 * Move Zeroes
 * Sort Array By Parity
+* Remove Element
 
 </details>
