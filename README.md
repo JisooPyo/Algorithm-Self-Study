@@ -42,6 +42,7 @@ Programmers lv.2 풀이 중
 * 예상 대진표
 * N개의 최소공배수
 * 멀리 뛰기
+* 귤 고르기
 
 </details>
 
