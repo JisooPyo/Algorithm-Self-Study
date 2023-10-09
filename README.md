@@ -23,7 +23,7 @@ Programmers lv.1 완료
 
 <details>
 <summary>
-Programmers lv.2 풀이 중
+Programmers lv.2 정답률 70% 이상
 </summary>
 
 * 최댓값과 최솟값
@@ -36,6 +36,14 @@ Programmers lv.2 풀이 중
 * 피보나치 수
 * 짝지어 제거하기
 * 카펫
+
+</details>
+
+<details>
+<summary>
+Programmers lv.2 정답률 60% 이상 - 풀이 중
+</summary>
+
 * 영어 끝말잇기
 * 구명보트
 * 점프와 순간 이동
@@ -44,6 +52,7 @@ Programmers lv.2 풀이 중
 * 멀리 뛰기
 * 귤 고르기
 * 연속 부분 수열 합의 개수
+* 괄호 회전하기
 
 </details>
 
