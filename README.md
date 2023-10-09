@@ -51,8 +51,8 @@ Programmers lv.2 풀이 중
 
 ### 1. 푼 문제
 
-| 1 | 383 | 412 | 876 | 1342 | 1480 | 1672 |
-|---|-----|-----|-----|------|------|------|
+| 1 | 383 | 412 | 876 | 1342 | 1480 | 1672 | 1991 |
+|---|-----|-----|-----|------|------|------|------|
 
 ### 2. LeetCode Explore
 
@@ -96,5 +96,16 @@ Array 101
 * Third Maximum Number
 * Find All Numbers Disappeared in an Array
 * Squares of a Sorted Array
+
+</details>
+
+<details>
+<summary>
+Array and String
+</summary>
+
+#### Introduction to Array
+
+* Find Pivot Index
 
 </details>
