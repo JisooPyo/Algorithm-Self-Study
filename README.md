@@ -118,5 +118,6 @@ Array and String
 
 * Find Pivot Index
 * Largest Number At Least Twice of Others
+* Plus One
 
 </details>
