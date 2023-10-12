@@ -4,7 +4,7 @@
 
 <details>
 <summary>
-기초 트레이닝, 입문 완료
+기초 트레이닝, 입문 완료 ✔
 </summary>
 
 | ![코딩 기초 트레이닝 캘린더](https://github.com/JisooPyo/My-Study/assets/130378232/ecdaf685-54e7-415f-8194-62d2a131a668) | ![코딩테스트 입문 캘린더 (1)](https://github.com/JisooPyo/My-Study/assets/130378232/4daaedbf-d6c0-40a1-a8f1-acb7cd183f8e) |
@@ -14,7 +14,7 @@
 
 <details>
 <summary>
-Programmers lv.1 완료
+Programmers lv.1 완료 ✔
 </summary>
 
 ![image](https://github.com/JisooPyo/My-Study/assets/130378232/fdd15c4e-d3c0-4a26-9305-e5e0cb563b9b)
@@ -23,7 +23,7 @@ Programmers lv.1 완료
 
 <details>
 <summary>
-Programmers lv.2 정답률 70% 이상
+Programmers lv.2 정답률 70% 이상 완료 ✔
 </summary>
 
 * 최댓값과 최솟값
@@ -120,5 +120,9 @@ Array and String
 * Find Pivot Index
 * Largest Number At Least Twice of Others
 * Plus One
+
+#### Introduction to 2D Array
+
+* Diagonal Traverse
 
 </details>
