@@ -40,11 +40,12 @@ public class HIndex {
 		return answer;
 	}
 
+	// 나랑 순서만 다르고 비슷한 풀이.
 	public int otherSolution(int[] citations) {
 		Arrays.sort(citations);
 		int max = 0;
 		for (int i = citations.length - 1; i > -1; i--) {
-			int min = (int) Math.min(citations[i], citations.length - i);
+			int min = Math.min(citations[i], citations.length - i);
 			if (max < min) max = min;
 		}
 		return max;

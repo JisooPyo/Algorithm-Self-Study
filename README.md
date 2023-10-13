@@ -125,5 +125,6 @@ Array and String
 #### Introduction to 2D Array
 
 * Diagonal Traverse
+* Spiral Matrix
 
 </details>
