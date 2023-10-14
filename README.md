@@ -57,6 +57,7 @@ Programmers lv.2 정답률 60% 이상 - 풀이 중
 * n^2 배열 자르기
 * H-Index
 * 행렬의 곱셈
+* [1차] 캐시
 
 </details>
 
