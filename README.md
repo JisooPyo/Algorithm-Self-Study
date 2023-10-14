@@ -127,5 +127,6 @@ Array and String
 
 * Diagonal Traverse
 * Spiral Matrix
+* Pascal's Triangle
 
 </details>
