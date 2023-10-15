@@ -130,4 +130,8 @@ Array and String
 * Spiral Matrix
 * Pascal's Triangle
 
+#### Introduction to String
+
+* Add Binary
+
 </details>
