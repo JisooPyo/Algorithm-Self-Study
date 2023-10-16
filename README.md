@@ -134,5 +134,6 @@ Array and String
 #### Introduction to String
 
 * Add Binary
+* Implement strStr()
 
 </details>
