@@ -136,5 +136,6 @@ Array and String
 
 * Add Binary
 * Implement strStr()
+* Longest Common Prefix
 
 </details>
