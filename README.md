@@ -145,5 +145,6 @@ Array and String
 * Reverse String
 * Array Partition 1
 * Two Sum 2
+* Minimum Size Subarray Sum
 
 </details>
