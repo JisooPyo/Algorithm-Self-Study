@@ -140,4 +140,8 @@ Array and String
 * Implement strStr()
 * Longest Common Prefix
 
+#### Two-Pointer Technique
+
+* Reverse String
+
 </details>
