@@ -143,5 +143,6 @@ Array and String
 #### Two-Pointer Technique
 
 * Reverse String
+* Array Partition 1
 
 </details>
