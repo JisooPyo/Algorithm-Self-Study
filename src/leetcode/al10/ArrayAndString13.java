@@ -18,6 +18,16 @@ public class ArrayAndString13 {
 	}
 
 	/**
+	 * Follow up:
+	 * If you have figured out the O(n) solution,
+	 * try coding another solution of which the time complexity is O(n log(n)).
+	 *
+	 * 이진 탐색을 이용
+	 * 이진 탐색은 오름차순으로 정렬되어 있는 배열에서 쓸 수 있다.
+	 * 0에서 i번째 index까지의 합을 int[] sum를 생성하여 sum[i]에 저장해서 쓸 수 있다.
+	 */
+
+	/**
 	 * 다른 사람이 푼 풀이를 보고 treeset 대신
 	 * 변수에 Math.min()을 이용하여 최솟값을 저장하게끔 바꿔보았다.
 	 * time complexity: O(n)
