@@ -152,4 +152,9 @@ Array and String
 * Two Sum 2
 * Minimum Size Subarray Sum
 
+#### Conclusion
+
+* Rotate Array
+* Pascal's Triangle 2
+
 </details>
