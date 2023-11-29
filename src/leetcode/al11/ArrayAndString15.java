@@ -1,5 +1,5 @@
 // Pascal's Triangle 2
-package leetcode.al10;
+package leetcode.al11;
 
 import java.util.ArrayList;
 import java.util.List;
