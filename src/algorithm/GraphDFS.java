@@ -1,4 +1,4 @@
-package programmers.test2311;
+package algorithm;
 
 import java.util.Iterator;
 import java.util.LinkedList;
