@@ -71,6 +71,15 @@ Programmers lv.2 정답률 60% 이상 - 풀이 중
 
 </details>
 
+<details>
+<summary>
+Programmers lv.2 정답률 50% 이상 - 풀이 중
+</summary>
+
+* 게임 맵 최단거리
+
+</details>
+
 ## Leetcode
 
 ### 1. 푼 문제
@@ -159,3 +168,20 @@ Array and String
 * Pascal's Triangle 2
 
 </details>
+
+### 알고리즘 별 문제 풀기
+
+<details>
+<summary>
+DFS/BFS
+</summary>
+
+#### Programmers
+
+* 타겟넘버 - DFS
+* 게임 맵 최단거리 - BFS
+
+#### Leetcode
+
+</details>
+
