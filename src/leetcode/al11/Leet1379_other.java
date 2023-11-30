@@ -1,16 +1,6 @@
 package leetcode.al11;
 
 public class Leet1379_other {
-    public class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode(int x) {
-            val = x;
-        }
-    }
-
     // declare reference to result node
     public TreeNode reference;
 

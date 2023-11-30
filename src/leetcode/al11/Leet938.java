@@ -1,26 +1,6 @@
 package leetcode.al11;
 
 public class Leet938 {
-
-    public static class TreeNode {
-        int val;
-        TreeNode left;
-        TreeNode right;
-
-        TreeNode() {
-        }
-
-        TreeNode(int val) {
-            this.val = val;
-        }
-
-        TreeNode(int val, TreeNode left, TreeNode right) {
-            this.val = val;
-            this.left = left;
-            this.right = right;
-        }
-    }
-
     public static void main(String[] args) {
         Leet938 leet938 = new Leet938();
         TreeNode t3 = new TreeNode(3);
