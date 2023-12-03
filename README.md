@@ -144,7 +144,7 @@ Array 101 ✔
 
 <details>
 <summary>
-Array and String
+Array and String ✔
 </summary>
 
 #### Introduction to Array
@@ -177,6 +177,7 @@ Array and String
 * Rotate Array
 * Pascal's Triangle 2
 * Reverse Words in a String
+* Reverse Words in a String 3
 
 </details>
 
