@@ -80,6 +80,15 @@ Programmers lv.2 정답률 50% 이상 - 풀이 중
 
 </details>
 
+<details>
+<summary>
+Programmers lv.3 
+</summary>
+
+* 정수 삼각형
+
+</details>
+
 ## Leetcode
 
 ### 1. 푼 문제
@@ -204,6 +213,10 @@ DFS/BFS
 <summary>
 Dynamic Programming
 </summary>
+
+#### Programmers
+
+* 정수 삼각형
 
 #### Leetcode
 
