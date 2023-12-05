@@ -181,6 +181,17 @@ Array and String ✔
 
 </details>
 
+<details>
+<summary>
+Hash Table
+</summary>
+
+#### Design a Hash Table
+
+* Design HashSet
+
+</details>
+
 ### 3. 알고리즘 별 문제 풀기
 
 <details>
