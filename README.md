@@ -41,7 +41,7 @@ Programmers lv.2 정답률 70% 이상 완료 ✔
 
 <details>
 <summary>
-Programmers lv.2 정답률 60% 이상 - 풀이 중
+Programmers lv.2 정답률 60% 이상 완료 ✔
 </summary>
 
 * 영어 끝말잇기
@@ -66,7 +66,6 @@ Programmers lv.2 정답률 60% 이상 - 풀이 중
 * 피로도
 * 전화번호 목록
 * k진수에서 소수 개수 구하기
-* 압축
 * 타겟 넘버
 
 </details>
@@ -76,6 +75,8 @@ Programmers lv.2 정답률 60% 이상 - 풀이 중
 Programmers lv.2 정답률 50% 이상 - 풀이 중
 </summary>
 
+* [3차] 압축
+* [3차] n진수 게임
 * 게임 맵 최단거리
 
 </details>
