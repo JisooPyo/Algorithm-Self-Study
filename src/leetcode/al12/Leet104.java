@@ -1,4 +1,6 @@
-package leetcode.al11;
+package leetcode.al12;
+
+import leetcode.al11.TreeNode;
 
 public class Leet104 {
     public static void main(String[] args) {

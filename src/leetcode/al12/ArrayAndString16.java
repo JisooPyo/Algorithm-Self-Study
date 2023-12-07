@@ -1,4 +1,4 @@
-package leetcode.al11;
+package leetcode.al12;
 
 public class ArrayAndString16 {
     public static void main(String[] args) {

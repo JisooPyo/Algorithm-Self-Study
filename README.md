@@ -192,23 +192,27 @@ Hash Table
 * Design HashSet
 * Design HashMap
 
+#### Practical Application - Hash Set
+
+* Contains Duplicate
+
 </details>
 
-### 3. 알고리즘 별 문제 풀기
+## 알고리즘 별 문제 풀기
 
 <details>
 <summary>
 DFS/BFS
 </summary>
 
-#### Programmers
+### Programmers
 
 * 타겟넘버 - DFS
 * 게임 맵 최단거리 - BFS
 
-#### Leetcode
+### Leetcode
 
-##### DFS
+#### DFS
 
 * 1379 - Find a Corresponding Node of a Binary Tree in a Clone of That Tree
 * 938 - Range Sum of BST
@@ -217,7 +221,7 @@ DFS/BFS
 * 2331 - Evaluate Boolean Binary Tree
 * 590 - N-ary Tree Postorder Traversal
 
-##### BFS
+#### BFS
 
 * 226 - Invert Binary Tree
 * 104 - Maximum Depth of Binary Tree
@@ -229,11 +233,11 @@ DFS/BFS
 Dynamic Programming
 </summary>
 
-#### Programmers
+### Programmers
 
 * 정수 삼각형
 
-#### Leetcode
+### Leetcode
 
 * 338 - Counting Bits
 * 509 - Fibonacci Number

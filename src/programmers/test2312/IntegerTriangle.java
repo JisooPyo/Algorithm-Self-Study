@@ -1,4 +1,4 @@
-package programmers.test2311;
+package programmers.test2312;
 
 public class IntegerTriangle {
     public static void main(String[] args) {

@@ -1,4 +1,6 @@
-package leetcode.al11;
+package leetcode.al12;
+
+import leetcode.al11.Node;
 
 import java.util.ArrayList;
 import java.util.List;

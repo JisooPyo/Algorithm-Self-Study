@@ -1,5 +1,5 @@
 // Counting Bits
-package leetcode.al11;
+package leetcode.al12;
 
 import java.util.Arrays;
 

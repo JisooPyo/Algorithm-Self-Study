@@ -1,5 +1,5 @@
 // Design HashMap
-package leetcode.al11;
+package leetcode.al12;
 
 import java.util.ArrayList;
 import java.util.List;
