@@ -190,6 +190,7 @@ Hash Table
 #### Design a Hash Table
 
 * Design HashSet
+* Design HashMap
 
 </details>
 
