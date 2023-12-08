@@ -196,6 +196,7 @@ Hash Table
 #### Practical Application - Hash Set
 
 * Contains Duplicate
+* Single Number
 
 </details>
 
