@@ -200,6 +200,7 @@ Hash Table
 * Contains Duplicate
 * Single Number
 * Intersection of Two Arrays
+* Happy Number
 
 </details>
 
