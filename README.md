@@ -199,6 +199,7 @@ Hash Table
 
 * Contains Duplicate
 * Single Number
+* Intersection of Two Arrays
 
 </details>
 
