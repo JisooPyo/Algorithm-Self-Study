@@ -206,6 +206,7 @@ Hash Table
 #### Practical Application - Hash Map
 
 * Two Sum
+* Isomorphic Strings
 
 </details>
 
