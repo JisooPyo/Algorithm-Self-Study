@@ -208,6 +208,7 @@ Hash Table
 * Two Sum
 * Isomorphic Strings
 * Minimum Index Sum Of Two Lists
+* First Unique Character in a String
 
 </details>
 
