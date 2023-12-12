@@ -210,6 +210,7 @@ Hash Table
 * Minimum Index Sum Of Two Lists
 * First Unique Character in a String
 * Intersection of Two Arrays 2
+* Contains Duplicate 2
 
 </details>
 
