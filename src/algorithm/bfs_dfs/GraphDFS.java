@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.bfs_dfs;
 
 import java.util.Iterator;
 import java.util.LinkedList;

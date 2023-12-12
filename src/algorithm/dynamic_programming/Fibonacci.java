@@ -1,4 +1,4 @@
-package algorithm;
+package algorithm.dynamic_programming;
 
 public class Fibonacci {
     // DP 를 사용 시 작은 문제의 결과값을 저장하는 배열
