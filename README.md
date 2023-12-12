@@ -207,6 +207,7 @@ Hash Table
 
 * Two Sum
 * Isomorphic Strings
+* Minimum Index Sum Of Two Lists
 
 </details>
 
