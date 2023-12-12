@@ -209,6 +209,7 @@ Hash Table
 * Isomorphic Strings
 * Minimum Index Sum Of Two Lists
 * First Unique Character in a String
+* Intersection of Two Arrays 2
 
 </details>
 
