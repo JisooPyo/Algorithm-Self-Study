@@ -1,4 +1,4 @@
-## Hash Map
+# Hash Map
 
 Hash Map은 (key, value) 쌍을 저장하기 위해 사용되는 Map의 implementation 중 하나이다.
 
