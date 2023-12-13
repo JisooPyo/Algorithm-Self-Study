@@ -217,6 +217,7 @@ Hash Table
 
 * Group Anagrams
 * Valid Sudoku
+* Find Duplicate Subtrees
 
 </details>
 
