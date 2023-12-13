@@ -216,6 +216,7 @@ Hash Table
 #### Practical Application - Design the Key
 
 * Group Anagrams
+* Valid Sudoku
 
 </details>
 
