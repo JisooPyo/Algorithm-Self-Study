@@ -5,16 +5,18 @@ import java.util.Map;
 
 public class HashTable10 {
     public static void main(String[] args) {
+        HashTable10 h = new HashTable10();
+
         String s1 = "leetcode";
         String s2 = "loveleetcode";
         String s3 = "aabb";
 
-        System.out.println(firstUniqChar(s1));
-        System.out.println(firstUniqChar(s2));
-        System.out.println(firstUniqChar(s3));
+        System.out.println(h.firstUniqChar(s1));
+        System.out.println(h.firstUniqChar(s2));
+        System.out.println(h.firstUniqChar(s3));
     }
 
-    public static int firstUniqChar(String s) {
+    public int firstUniqChar(String s) {
         Map<Character, Integer> counting = new HashMap<>();
         for (char ch : s.toCharArray()) {
             counting.put(ch, counting.getOrDefault(ch, 0) + 1);

@@ -4,6 +4,8 @@ import java.util.*;
 
 public class HashTable9 {
     public static void main(String[] args) {
+        HashTable9 h = new HashTable9();
+
         String[] list1_1 = {"Shogun", "Tapioca Express", "Burger King", "KFC"};
         String[] list2_1 = {"Piatti", "The Grill at Torrey Pines", "Hungry Hunter Steakhouse", "Shogun"};
 
@@ -13,12 +15,12 @@ public class HashTable9 {
         String[] list1_3 = {"happy", "sad", "good"};
         String[] list2_3 = {"sad", "happy", "good"};
 
-        System.out.println(Arrays.toString(findRestaurant(list1_1, list2_1)));  // {"Shogun"}
-        System.out.println(Arrays.toString(findRestaurant(list1_2, list2_2)));  // {"Shogun"}
-        System.out.println(Arrays.toString(findRestaurant(list1_3, list2_3)));  // {"sad","happy"}
+        System.out.println(Arrays.toString(h.findRestaurant(list1_1, list2_1)));  // {"Shogun"}
+        System.out.println(Arrays.toString(h.findRestaurant(list1_2, list2_2)));  // {"Shogun"}
+        System.out.println(Arrays.toString(h.findRestaurant(list1_3, list2_3)));  // {"sad","happy"}
     }
 
-    public static String[] findRestaurant(String[] list1, String[] list2) {
+    public String[] findRestaurant(String[] list1, String[] list2) {
         Map<String, Integer> list1StringIndex = new HashMap<>();
         for (int i = 0; i < list1.length; i++) {
             list1StringIndex.put(list1[i], i);
@@ -44,7 +46,7 @@ public class HashTable9 {
         for (int i = 0; i < answer.length; i++) {
             answer[i] = answerList.get(i);
         }
-        
+
         return answer;
     }
 }

@@ -213,6 +213,10 @@ Hash Table
 * Intersection of Two Arrays 2
 * Contains Duplicate 2
 
+#### Practical Application - Design the Key
+
+* Group Anagrams
+
 </details>
 
 ## 알고리즘 별 문제 풀기

@@ -8,16 +8,18 @@ import java.util.List;
 
 public class HashTable11 {
     public static void main(String[] args) {
+        HashTable11 h = new HashTable11();
+
         int[] nums1 = {1, 2, 2, 1};
         int[] nums2 = {2, 2};
         int[] nums3 = {4, 9, 5};
         int[] nums4 = {9, 4, 9, 8, 4};
 
-        System.out.println(Arrays.toString(intersect(nums1, nums2)));
-        System.out.println(Arrays.toString(intersect(nums3, nums4)));
+        System.out.println(Arrays.toString(h.intersect(nums1, nums2)));
+        System.out.println(Arrays.toString(h.intersect(nums3, nums4)));
     }
 
-    public static int[] intersect(int[] nums1, int[] nums2) {
+    public int[] intersect(int[] nums1, int[] nums2) {
         // nums1 LinkedList에 추가
         LinkedList<Integer> nums1List = new LinkedList<>();
         for (int i = 0; i < nums1.length; i++) {
