@@ -223,6 +223,7 @@ Hash Table
 
 * Jewels and Stones
 * Longest Substring Without Repeating Characters
+* 4Sum 2
 
 </details>
 
