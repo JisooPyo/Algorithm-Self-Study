@@ -191,7 +191,7 @@ Array and String ✔
 
 <details>
 <summary>
-Hash Table
+Hash Table ✔
 </summary>
 
 #### Design a Hash Table
@@ -230,6 +230,17 @@ Hash Table
 * Insert Delete GetRandom O(1)
 
 </details>
+
+<details>
+<summary>
+Linked List
+</summary>
+
+#### Singly Linked List
+
+* Design Linked List
+
+<br>
 
 ## 알고리즘 별 문제 풀기
 
