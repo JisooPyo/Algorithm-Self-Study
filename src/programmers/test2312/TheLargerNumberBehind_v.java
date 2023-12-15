@@ -11,9 +11,30 @@ public class TheLargerNumberBehind_v {
         int[] numbers2 = {9, 1, 5, 3, 6, 2};
 
         // [3, 5, 5, -1]
-        System.out.println(Arrays.toString(t.solution2(numbers1)));
+        System.out.println(Arrays.toString(t.solution(numbers1)));
         // [-1, 5, 6, 6, -1, -1]
-        System.out.println(Arrays.toString(t.solution2(numbers2)));
+        System.out.println(Arrays.toString(t.solution(numbers2)));
+    }
+
+    public int[] solution(int[] numbers) {
+        int[] answer = new int[numbers.length];
+        Stack<Integer> stack = new Stack<>();
+        stack.add(numbers[numbers.length - 1]);
+        answer[answer.length - 1] = -1;
+        for (int i = numbers.length - 2; i >= 0; i--) {
+            while (stack.size() > 0) {
+                if (stack.peek() > numbers[i]) {
+                    answer[i] = stack.peek();
+                    break;
+                }
+                stack.pop();
+                if (stack.size() == 0) {
+                    answer[i] = -1;
+                }
+            }
+            stack.push(numbers[i]);
+        }
+        return answer;
     }
 
     public int[] solution2(int[] numbers) {
@@ -34,29 +55,6 @@ public class TheLargerNumberBehind_v {
             s.push(i);
         }
 
-        return answer;
-    }
-
-    public int[] solution(int[] numbers) {
-        int[] answer = new int[numbers.length];
-
-        Stack<Integer> stack = new Stack<>();
-        stack.add(numbers[numbers.length - 1]);
-        answer[answer.length - 1] = -1;
-        for (int i = numbers.length - 2; i >= 0; i--) {
-            Stack<Integer> testStack = stack;
-            while (testStack.size() > 0) {
-                if (testStack.peek() > numbers[i]) {
-                    answer[i] = testStack.peek();
-                    break;
-                }
-                testStack.pop();
-                if (testStack.size() == 0) {
-                    answer[i] = -1;
-                }
-            }
-            stack.push(numbers[i]);
-        }
         return answer;
     }
 }
