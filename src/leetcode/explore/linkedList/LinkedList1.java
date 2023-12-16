@@ -1,6 +1,6 @@
 package leetcode.explore.linkedList;
 
-public class DesignLinkedList {
+public class LinkedList1 {
     public static void main(String[] args) {
         MyLinkedList myLinkedList = new MyLinkedList();
         myLinkedList.addAtHead(1);

@@ -2,9 +2,9 @@ package leetcode.explore.linkedList;
 
 import java.util.Objects;
 
-public class LinkedListCycle {
+public class LinkedList2 {
     public static void main(String[] args) {
-        LinkedListCycle l = new LinkedListCycle();
+        LinkedList2 l = new LinkedList2();
         ListNode l1 = new ListNode(3);
         ListNode l2 = new ListNode(2);
         ListNode l3 = new ListNode(0);

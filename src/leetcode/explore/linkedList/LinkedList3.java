@@ -3,9 +3,9 @@ package leetcode.explore.linkedList;
 import java.util.HashSet;
 import java.util.Set;
 
-public class LinkedListCycle2 {
+public class LinkedList3 {
     public static void main(String[] args) {
-        LinkedListCycle2 l = new LinkedListCycle2();
+        LinkedList3 l = new LinkedList3();
         ListNode l1 = new ListNode(3);
         ListNode l2 = new ListNode(2);
         ListNode l3 = new ListNode(0);
