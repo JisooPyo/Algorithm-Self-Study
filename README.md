@@ -252,6 +252,7 @@ Linked List
 #### Classic Problems
 
 * Reverse Linked List
+* Remove Linked List Elements
 
 </details>
 
