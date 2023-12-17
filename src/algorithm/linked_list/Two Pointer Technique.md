@@ -43,3 +43,49 @@ technique로 불리는)는 아주 유용하다.
 
 ## Summary - Two-Pointer in Linked List
 
+여기에 linked list에서 two-pointer 문제를 푸는 템플릿이 있다.
+
+```java
+// Initialize slow & fast pointers
+ListNode slow=head;
+        ListNode fast=head;
+/**
+ * Change this condition to fit specific problem.
+ * Attention: remember to avoid null-pointer error
+ **/
+        while(slow!=null&&fast!=null&&fast.next!=null){
+        slow=slow.next;           // move slow pointer one step each time
+        fast=fast.next.next;      // move fast pointer two steps each time
+        if(slow==fast){         // change this condition to fit specific problem
+        return true;
+        }
+        }
+        return false;   // change return value to fit specific problem
+```
+
+### Tips
+
+배열에서 배웠던 것과 비슷하지만 더 까다롭고 오류가 나기 쉽다. 주의해야 할 몇 가지가 있다.
+
+1. next 필드를 호출하기 전에 node가 null인지 검사하라.
+
+null 노드의 next 노드를 얻는 것은 null-pointer 에러를 야기시킨다. 예를 들어, `fast = fast.next.next`를 실행하기 전에 fast와 fast.next가 null이 아님을 검사할
+필요가 있다.
+
+2. loop의 end 상태를 신중하게 정의하라.
+
+몇 가지 예제를 실행시켜 end 상태를 확실히 하면 endless loop를 야기시키지 않을 것이다. 그리고 end 상태를 정의할 때 첫번째 tip을 고려해야 한다.
+
+### 복잡도 분석
+
+공간 복잡도를 분석하는 것은 쉽다. 만약 다른 추가의 공간 없이 pointer만을 사용한다면 공간 복잡도는 O(1)이 될 것이다. 하지만 시간 복잡도를 분석하는 것은 더 어렵다. 답을 얻기
+위해 `loop를 몇 번 실행 시킬 것인지` 분석할 필요가 있다.
+
+이전에 cycle을 찾는 문제에서, 한 번에 faster pointer는 2 스텝을 움직이고, slower pointer는 1 스텝을 움직인다고 가정하자.
+
+1. 만약 cycle이 없다면, faster pointer는 linked list의 길이가 N일 때, linked list의 끝에 도달하기 위해서 `N/2의 시간`이 걸릴 것이다.
+2. cycle이 있다면, faster pointer는 slower pointer를 따라 잡기 위해 `M번의 시간`이 필요하다. 여기서 M은 list의 cycle의 길이이다.
+
+M이 N보다 작거나 같음은 명백하다. 때문에 loop를 최대 N번 실행시키게 된다. 그리고 각각의 loop에서 상수의 시간이 걸린다. 그러므로 이 알고리즘의 시간 복잡도는 총 `O(N)`이 된다.
+
+분석 스킬을 향상시키기 위해 다른 문제들을 스스로 분석해보아라. 다양한 조건을 고려하는 것을 기억하라. 모든 상태에 대해 분석하기 어렵다면, worst case를 고려하라.

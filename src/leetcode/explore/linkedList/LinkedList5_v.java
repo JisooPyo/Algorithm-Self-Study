@@ -1,8 +1,8 @@
 package leetcode.explore.linkedList;
 
-public class LinkedList5 {
+public class LinkedList5_v {
     public static void main(String[] args) {
-        LinkedList5 l = new LinkedList5();
+        LinkedList5_v l = new LinkedList5_v();
         l.problem1();
         l.problem2();
         l.problem3();
