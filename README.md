@@ -249,6 +249,12 @@ Linked List
 * Intersection of Two Linked Lists
 * Remove Nth Node From End of List
 
+#### Classic Problems
+
+* Reverse Linked List
+
+</details>
+
 <br>
 
 ## 알고리즘 별 문제 풀기
