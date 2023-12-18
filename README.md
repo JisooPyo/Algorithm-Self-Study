@@ -253,6 +253,7 @@ Linked List
 
 * Reverse Linked List
 * Remove Linked List Elements
+* Odd Even Linked List
 
 </details>
 
