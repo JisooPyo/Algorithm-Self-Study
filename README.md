@@ -256,6 +256,10 @@ Linked List
 * Odd Even Linked List
 * Palindrome Linked List
 
+#### Doubly Linked List
+
+* Design Doubly Linked List
+
 </details>
 
 <br>
