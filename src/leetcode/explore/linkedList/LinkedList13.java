@@ -112,6 +112,7 @@ public class LinkedList13 {
     }
 
     // 재귀 이용해야 할 것 같다..
+    // 다른 사람의 풀이 중에서는 붙여야 할 노드를 자료구조에 저장하고 다시 꺼내서 붙이는 방식으로 푸는 방법도 있었다.
     public Node flatten(Node head) {
         if (head == null) {
             return null;
