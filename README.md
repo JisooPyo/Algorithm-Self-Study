@@ -235,7 +235,7 @@ Hash Table ✔
 
 <details>
 <summary>
-Linked List
+Linked List ✔
 </summary>
 
 #### Singly Linked List
@@ -266,6 +266,7 @@ Linked List
 * Add Two Numbers
 * Flatten a Multilevel Doubly Linked List
 * Copy List with Random Pointer
+* Rotate List
 
 </details>
 
