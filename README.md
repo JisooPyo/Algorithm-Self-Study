@@ -37,6 +37,8 @@ Programmers lv.2 정답률 70% 이상 완료 ✔
 * 짝지어 제거하기
 * 카펫
 
+---
+
 </details>
 
 <details>
@@ -68,6 +70,8 @@ Programmers lv.2 정답률 60% 이상 완료 ✔
 * k진수에서 소수 개수 구하기
 * 타겟 넘버
 
+---
+
 </details>
 
 <details>
@@ -87,6 +91,9 @@ Programmers lv.2 정답률 50% 이상 - 풀이 중
 * 땅따먹기
 * 스킬트리
 * 오픈채팅방
+* 롤케이크 자르기
+
+---
 
 </details>
 
@@ -96,6 +103,8 @@ Programmers lv.3
 </summary>
 
 * 정수 삼각형
+
+---
 
 </details>
 
@@ -150,6 +159,8 @@ Array 101 ✔
 * Find All Numbers Disappeared in an Array
 * Squares of a Sorted Array
 
+---
+
 </details>
 
 <details>
@@ -188,6 +199,8 @@ Array and String ✔
 * Pascal's Triangle 2
 * Reverse Words in a String
 * Reverse Words in a String 3
+
+---
 
 </details>
 
@@ -231,6 +244,8 @@ Hash Table ✔
 * Top K Frequent Elements
 * Insert Delete GetRandom O(1)
 
+---
+
 </details>
 
 <details>
@@ -268,6 +283,8 @@ Linked List ✔
 * Copy List with Random Pointer
 * Rotate List
 
+---
+
 </details>
 
 <br>
@@ -300,6 +317,8 @@ DFS/BFS
 * 226 - Invert Binary Tree
 * 104 - Maximum Depth of Binary Tree
 
+---
+
 </details>
 
 <details>
@@ -315,5 +334,7 @@ Dynamic Programming
 
 * 338 - Counting Bits
 * 509 - Fibonacci Number
+
+---
 
 </details>
