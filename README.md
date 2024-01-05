@@ -302,6 +302,10 @@ Queue & Stack
 
 * Design Circular Queue
 
+#### Stack: Last-in-first-out Data Structure
+
+* Min Stack
+
 ---
 
 </details>

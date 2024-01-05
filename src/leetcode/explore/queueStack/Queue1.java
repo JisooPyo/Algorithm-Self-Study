@@ -3,7 +3,7 @@ package leetcode.explore.queueStack;
 import java.util.ArrayList;
 import java.util.List;
 
-public class QueueStack1 {
+public class Queue1 {
     public static void main(String[] args) {
         MyCircularQueue myCircularQueue = new MyCircularQueue(3);
         System.out.println(myCircularQueue.enQueue(1)); // return True
