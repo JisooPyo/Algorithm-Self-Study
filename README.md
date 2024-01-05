@@ -307,6 +307,7 @@ Queue & Stack
 * Min Stack
 * Valid Parentheses
 * Daily Temperatures
+* Evaluate Reverse Polish Notation
 
 ---
 
