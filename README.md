@@ -305,6 +305,7 @@ Queue & Stack
 #### Stack: Last-in-first-out Data Structure
 
 * Min Stack
+* Valid Parentheses
 
 ---
 
