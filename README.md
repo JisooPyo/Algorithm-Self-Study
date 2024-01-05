@@ -306,6 +306,7 @@ Queue & Stack
 
 * Min Stack
 * Valid Parentheses
+* Daily Temperatures
 
 ---
 
