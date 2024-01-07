@@ -3,10 +3,9 @@ package leetcode.explore.binaryTree;
 import java.util.ArrayList;
 import java.util.List;
 
-public class Traversal1 {
+public class Traversal2 {
     public static void main(String[] args) {
-        Traversal1 t = new Traversal1();
-
+        Traversal2 t = new Traversal2();
         t.problem1();
         t.problem2();
         t.problem3();
@@ -26,7 +25,7 @@ public class Traversal1 {
         TreeNode t7 = new TreeNode('G', null, t9);
 
         TreeNode t6 = new TreeNode('F', t2, t7);
-        List<Integer> list = preorderTraversal(t6);
+        List<Integer> list = inorderTraversal(t6);
         for (Integer i : list) {
             int element = i;
             char ch = (char) element;
@@ -36,38 +35,36 @@ public class Traversal1 {
 
     private void problem3() {
         TreeNode t1 = new TreeNode(1);
-        System.out.println(preorderTraversal(t1));
+        System.out.println(inorderTraversal(t1));
     }
 
     private void problem2() {
-        System.out.println(preorderTraversal(null));
+        System.out.println(inorderTraversal(null));
     }
 
     private void problem1() {
         TreeNode t3 = new TreeNode(3);
         TreeNode t2 = new TreeNode(2, t3, null);
         TreeNode t1 = new TreeNode(1, null, t2);
-        System.out.println(preorderTraversal(t1));
+        System.out.println(inorderTraversal(t1));
     }
 
-    // 전위 순회: 루트 -> 왼쪽 -> 오른쪽
-    public List<Integer> preorderTraversal(TreeNode root) {
+    // 중위순회: 왼쪽, 루트, 오른쪽
+    public List<Integer> inorderTraversal(TreeNode root) {
         List<Integer> list = new ArrayList<>();
         if (root == null) {
             return list;
         }
-        list.add(root.val);
         recursive(list, root);
         return list;
     }
 
     private void recursive(List<Integer> list, TreeNode root) {
         if (root.left != null) {
-            list.add(root.left.val);
             recursive(list, root.left);
         }
+        list.add(root.val);
         if (root.right != null) {
-            list.add(root.right.val);
             recursive(list, root.right);
         }
     }

@@ -321,6 +321,7 @@ Binary Tree
 #### Traverse A Tree
 
 * Binary Tree Preorder Traversal
+* Binary Tree Inorder Traversal
 
 ---
 
