@@ -293,8 +293,6 @@ Linked List ✔
 
 </details>
 
-<br>
-
 <details>
 <summary>
 Queue & Stack
@@ -310,6 +308,19 @@ Queue & Stack
 * Valid Parentheses
 * Daily Temperatures
 * Evaluate Reverse Polish Notation
+
+---
+
+</details>
+
+<details>
+<summary>
+Binary Tree
+</summary>
+
+#### Traverse A Tree
+
+* Binary Tree Preorder Traversal
 
 ---
 
