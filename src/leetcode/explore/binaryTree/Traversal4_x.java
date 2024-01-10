@@ -60,7 +60,32 @@ public class Traversal4_x {
         System.out.println(levelOrder(t1));
     }
 
+    // 다른 사람의 풀이 보고 이해 후 다시 작성해보기
     public List<List<Integer>> levelOrder(TreeNode root) {
+        Queue<TreeNode> queue = new LinkedList<>();
+        List<List<Integer>> answer = new ArrayList<>();
+        if (root == null) {
+            return answer;
+        }
+        queue.add(root);
+        while (!queue.isEmpty()) {
+            int count = queue.size();
+            List<Integer> level = new ArrayList<>();
+            for (int i = 0; i < count; i++) {
+                if (queue.peek().left != null) {
+                    queue.add(queue.peek().left);
+                }
+                if (queue.peek().right != null) {
+                    queue.add(queue.peek().right);
+                }
+                level.add(queue.poll().val);
+            }
+            answer.add(level);
+        }
+        return answer;
+    }
+
+    public List<List<Integer>> levelOrder2(TreeNode root) {
         Queue<TreeNode> queue = new LinkedList<>();
         List<List<Integer>> wrapList = new LinkedList<>();
 
