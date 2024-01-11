@@ -330,6 +330,7 @@ Binary Tree
 
 * Maximum Depth of Binary Tree
 * Symmetric Tree
+* Path Sum
 
 ---
 
