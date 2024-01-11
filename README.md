@@ -326,6 +326,10 @@ Binary Tree
 * Binary Tree Postorder Traversal
 * Binary Tree Level Order Traversal
 
+#### Solve Problems Recursively
+
+* Maximum Depth of Binary Tree
+
 ---
 
 </details>
