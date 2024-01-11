@@ -329,6 +329,7 @@ Binary Tree
 #### Solve Problems Recursively
 
 * Maximum Depth of Binary Tree
+* Symmetric Tree
 
 ---
 
