@@ -333,6 +333,10 @@ Binary Tree
 * Symmetric Tree
 * Path Sum
 
+#### Conclusion
+
+* Construct Binary Tree from Inorder and Postorder Traversal
+
 ---
 
 </details>
