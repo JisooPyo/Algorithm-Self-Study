@@ -101,6 +101,7 @@ public class Conclusion1 {
         for (int i = 0; i < inorder.length; i++) {
             if (inorder[i] == root.val) {
                 rootIndex = i;
+                break;
             }
         }
         // right가 있을 때

@@ -336,6 +336,7 @@ Binary Tree
 #### Conclusion
 
 * Construct Binary Tree from Inorder and Postorder Traversal
+* Construct Binary Tree from Preorder and Inorder Traversal
 
 ---
 
