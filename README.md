@@ -338,6 +338,7 @@ Binary Tree
 * Construct Binary Tree from Inorder and Postorder Traversal
 * Construct Binary Tree from Preorder and Inorder Traversal
 * Populating Next Right Pointers in Each Node
+* Populating Next Right Pointers in Each Node 2
 
 ---
 
