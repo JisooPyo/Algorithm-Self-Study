@@ -1,6 +1,6 @@
-# Algorithm-study
+# Algorithm study
 
-## Programmers
+## 1️⃣ Programmers
 
 <details>
 <summary>
@@ -116,13 +116,17 @@ Programmers lv.3
 
 </details>
 
-## Leetcode
+<br>
+
+## 2️⃣ Leetcode
 
 ### 1. 푼 문제
 
 | 1    | 104  | 226  | 338  | 383 | 412 | 509 | 590 | 617 | 876 | 897 | 938 | 1342 | 1379 |
 |------|------|------|------|-----|-----|-----|-----|-----|-----|-----|-----|------|------|
 | 1480 | 1672 | 1991 | 2331 |     |     |     |     |     |     |     |     |      |      |
+
+<br>
 
 ### 2. LeetCode Explore
 
@@ -339,6 +343,7 @@ Binary Tree
 * Construct Binary Tree from Preorder and Inorder Traversal
 * Populating Next Right Pointers in Each Node
 * Populating Next Right Pointers in Each Node 2
+* Lowest Common Ancestor of a Binary Tree
 
 ---
 
@@ -346,7 +351,7 @@ Binary Tree
 
 <br>
 
-## 알고리즘 별 문제 풀기
+## 3️⃣ 알고리즘 별 문제 풀기
 
 <details>
 <summary>
