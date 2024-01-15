@@ -321,7 +321,7 @@ Queue & Stack
 
 <details>
 <summary>
-Binary Tree
+Binary Tree ✔
 </summary>
 
 #### Traverse A Tree
@@ -344,6 +344,7 @@ Binary Tree
 * Populating Next Right Pointers in Each Node
 * Populating Next Right Pointers in Each Node 2
 * Lowest Common Ancestor of a Binary Tree
+* Serialize and Deserialize Binary Tree
 
 ---
 
