@@ -67,7 +67,9 @@ public class BFS1 {
     }
 
     // 간단하게.. 풀자 queue & while 이외에 재귀 방법도 있다.
-
+    // 노드 BFS는 queue or 재귀
+    // array BFS는 재귀로 많이 푸는 것 같다.
+    // 저장할 때 boolean[]에 저장하지 않고 배열 값 자체를 바꾸는 것도 방법
     // 다른 사람의 풀이 - 1ms
     int r;
     int c;

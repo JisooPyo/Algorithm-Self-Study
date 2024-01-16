@@ -318,6 +318,7 @@ Queue & Stack
 #### Queue and BFS
 
 * Number of Islands
+* Open the Lock
 
 ---
 
