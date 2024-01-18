@@ -319,6 +319,7 @@ Queue & Stack
 
 * Number of Islands
 * Open the Lock
+* Perfect Squares
 
 ---
 
