@@ -329,6 +329,7 @@ Queue & Stack
 #### Conclusion
 
 * Implement Queue using Stacks
+* Implement Stack using Queues
 
 ---
 
