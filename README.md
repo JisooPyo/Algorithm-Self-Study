@@ -301,7 +301,7 @@ Linked List ✔
 
 <details>
 <summary>
-Queue & Stack
+Queue & Stack ✔
 </summary>
 
 #### Queue: First-in-first-out Data Structure
@@ -333,6 +333,7 @@ Queue & Stack
 * Decode String
 * Flood Fill
 * 01 Matrix
+* Keys and Rooms
 
 ---
 
