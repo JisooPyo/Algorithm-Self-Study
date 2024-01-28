@@ -370,6 +370,19 @@ Binary Tree ✔
 
 </details>
 
+<details>
+<summary>
+Recursion 1
+</summary>
+
+#### Principle of Recursion
+
+* Reverse String
+
+---
+
+</details>
+
 <br>
 
 ## 3️⃣ 알고리즘 별 문제 풀기
