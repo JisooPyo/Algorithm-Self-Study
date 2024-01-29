@@ -378,6 +378,7 @@ Recursion 1
 #### Principle of Recursion
 
 * Reverse String
+* Swap Nodes in Pairs
 
 ---
 
