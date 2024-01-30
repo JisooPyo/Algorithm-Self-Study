@@ -380,6 +380,10 @@ Recursion 1
 * Reverse String
 * Swap Nodes in Pairs
 
+#### Recurrence Relation
+
+* Reverse Linked List
+
 ---
 
 </details>
