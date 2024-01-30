@@ -383,6 +383,7 @@ Recursion 1
 #### Recurrence Relation
 
 * Reverse Linked List
+* Search in a Binary Search Tree
 
 ---
 
