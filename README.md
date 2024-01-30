@@ -384,6 +384,7 @@ Recursion 1
 
 * Reverse Linked List
 * Search in a Binary Search Tree
+* Pascal's Triangle 2
 
 ---
 
