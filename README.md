@@ -394,6 +394,7 @@ Recursion 1
 #### Complexity Analysis
 
 * Maximum Depth of Binary Tree
+* Pow(x, n)
 
 ---
 
