@@ -406,6 +406,20 @@ Recursion 1 ✔
 
 </details>
 
+<details>
+<summary>
+N-ary Tree
+</summary>
+
+#### Traversal
+
+* N-ary Tree Preorder Traversal
+* N-ary Tree Postorder Traversal
+
+---
+
+</details>
+
 <br>
 
 ## 3️⃣ 알고리즘 별 문제 풀기
