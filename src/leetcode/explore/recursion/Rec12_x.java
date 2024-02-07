@@ -18,13 +18,16 @@ public class Rec12_x {
         return generateTrees(1, n);
     }
 
+    // 주어진 범위의 숫자로 구성된 모든 유일한 BST를 생성하는 메서드
     private List<TreeNode> generateTrees(int start, int end) {
         List<TreeNode> trees = new ArrayList<>();
+        // 범위가 유효하지 않을 때 비어있는 트리를 생성하여 반환
         if (start > end) {
             trees.add(null);
             return trees;
         }
 
+        // i를 root로 하는 Tree를 만든다.
         for (int i = start; i <= end; i++) {
             List<TreeNode> leftSubtrees = generateTrees(start, i - 1);
             List<TreeNode> rightSubtrees = generateTrees(i + 1, end);
