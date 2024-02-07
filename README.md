@@ -372,7 +372,7 @@ Binary Tree ✔
 
 <details>
 <summary>
-Recursion 1
+Recursion 1 ✔
 </summary>
 
 #### Principle of Recursion
@@ -400,6 +400,7 @@ Recursion 1
 
 * Merge Two Sorted Lists
 * K-th Symbol in Grammar
+* Unique Binary Search Trees 2
 
 ---
 
