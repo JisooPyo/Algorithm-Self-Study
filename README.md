@@ -408,7 +408,7 @@ Recursion 1 ✔
 
 <details>
 <summary>
-N-ary Tree
+N-ary Tree ✔
 </summary>
 
 #### Traversal
