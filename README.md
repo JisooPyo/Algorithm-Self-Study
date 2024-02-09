@@ -417,6 +417,10 @@ N-ary Tree
 * N-ary Tree Postorder Traversal
 * N-ary Tree Level Order Traversal
 
+#### Recursion
+
+* Maximum Depth of N-ary Tree
+
 ---
 
 </details>
