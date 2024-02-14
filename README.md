@@ -434,6 +434,10 @@ Trie
 
 * Implement Trie(Prefix Tree)
 
+#### Practical Application 1
+
+* Map Sum Pairs
+
 ---
 
 </details>
