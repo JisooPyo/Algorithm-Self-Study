@@ -425,6 +425,19 @@ N-ary Tree ✔
 
 </details>
 
+<details>
+<summary>
+Trie
+</summary>
+
+#### Basic Operations
+
+* Implement Trie(Prefix Tree)
+
+---
+
+</details>
+
 <br>
 
 ## 3️⃣ 알고리즘 별 문제 풀기
