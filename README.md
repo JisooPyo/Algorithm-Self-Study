@@ -122,7 +122,7 @@ Programmers lv.3
 
 ### 1. LeetCode Stats Card
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/audwl326?theme=nord&font=IBM%20Plex%20Mono&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JisooPyo?theme=nord&font=IBM%20Plex%20Mono&ext=activity)
 
 <br>
 
