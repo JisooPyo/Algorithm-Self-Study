@@ -23,6 +23,7 @@ public class Leet1171 {
         ListNode answer = l.removeZeroSumSublists(l1);
     }
 
+    // 시간 복잡도: O(N)
     public ListNode removeZeroSumSublists(ListNode head) {
         Stack<ListNode> stack = new Stack<>();
         Set<Integer> sumSet = new HashSet<>();
@@ -76,6 +77,7 @@ public class Leet1171 {
 
     // 다른 사람 풀이
     // 재귀로 풀었다.
+    // 시간 복잡도: O(N^2)
     public ListNode removeZeroSumSublists2(ListNode head) {
         if (head == null)
             return head;
@@ -89,11 +91,11 @@ public class Leet1171 {
                     head = cur.next;
                 else
                     prev.next = cur.next;
-                return removeZeroSumSublists(head);
+                return removeZeroSumSublists2(head);
             }
             cur = cur.next;
         }
-        head.next = removeZeroSumSublists(head.next);
+        head.next = removeZeroSumSublists2(head.next);
         return head;
     }
 
