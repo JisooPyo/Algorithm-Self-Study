@@ -1,5 +1,7 @@
 # Algorithm study
 
+<img src="https://github.com/JisooPyo/algorithm-self-study/assets/130378232/5dedcece-71fd-4921-b06c-bad78683e7dc" width="200px">
+
 ## 1️⃣ Programmers
 
 <details>
