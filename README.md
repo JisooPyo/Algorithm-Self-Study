@@ -493,3 +493,25 @@ Dynamic Programming
 ---
 
 </details>
+
+<details>
+<summary>
+Prefix Sum
+</summary>
+
+### Leetcode
+
+* 209 - Minimum Size Subarray Sum
+* 238 - Product of Array Except Self
+* 525 - Contiguous Array
+* 724 - Find Pivot Index
+* 930 - Binary Subarrays With Sum
+* 1480 - Running Sum of 1d Array
+* 1588 - Sum of All Odd Length Subarrays
+* 1991 - Find the Middle Index in Array
+* 2485 - Find the Pivot Integer
+* 2574 - Left and Right Sum Differences
+
+---
+
+</details>
