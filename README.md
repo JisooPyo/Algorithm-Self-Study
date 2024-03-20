@@ -4,9 +4,11 @@
 
 ```text
 1. 매일 Leetcode 1문제 이상 풀기
-2. 푼 문제는 Leet{문제번호}로 class 생성하여 commet
+2. 푼 문제는 Leet{문제번호}로 class 생성하여 commit
 3. 풀리지 않은 문제는 Leet{문제번호}_x로 Rename하여 commit
 ```
+
+<br>
 
 <img src="https://github.com/JisooPyo/algorithm-self-study/assets/130378232/5dedcece-71fd-4921-b06c-bad78683e7dc" width="200px">
 
