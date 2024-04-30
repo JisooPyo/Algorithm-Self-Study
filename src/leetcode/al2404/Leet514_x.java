@@ -1,8 +1,5 @@
 package leetcode.al2404;
 
-import java.util.LinkedList;
-import java.util.Queue;
-
 /**
  * 514. Freedom Trail
  *
@@ -25,9 +22,9 @@ import java.util.Queue;
  * 만약 key[i]가 12시 방향에 위치하면 철자를 입력하기 위해 가운데 버튼을 누른다. 이것 또한 한 스텝으로 계산한다.
  *
  */
-public class Leet514 {
+public class Leet514_x {
     public static void main(String[] args) {
-        Leet514 l = new Leet514();
+        Leet514_x l = new Leet514_x();
 
         System.out.println(l.findRotateSteps("godding", "gd"));
         System.out.println(l.findRotateSteps("godding", "godding"));
