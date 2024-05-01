@@ -1,4 +1,4 @@
-package leetcode.al2404;
+package leetcode.al2405;
 
 /**
  * Given
