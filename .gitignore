@@ -31,3 +31,4 @@ bin/
 *.idea
 *.iml
 /src/codingTest/
+/src/test/
