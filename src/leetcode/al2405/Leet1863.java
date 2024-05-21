@@ -32,6 +32,7 @@ public class Leet1863 {
 
     // 내 풀이(1ms)
     // 재귀를 통해 부분집합을 구하면서 동시에 XOR값을 구하고 sum에 더해준다.
+    // 전에 구했던 XOR값을 다시 구하지 않아도 되는 것이 point!
     int sum;
     int[] nums;
 
