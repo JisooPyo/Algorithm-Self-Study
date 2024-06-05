@@ -16,7 +16,7 @@
 
 <br>
 
-<img src = "https://github.com/JisooPyo/Algorithm-Self-Study/assets/130378232/d08ec1f7-37a1-4396-bd65-f35d2e2f46f3" width="250px">
+![image](https://github.com/Two-Potatoes/BobJoying-Back/assets/130378232/c68eee5e-901f-4373-9ff4-e0b804eabe8b)
 
 ## 1️⃣ Programmers
 
