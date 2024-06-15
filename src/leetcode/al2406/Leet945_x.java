@@ -29,6 +29,7 @@ public class Leet945_x {
     }
 
     // 내가 푼 풀이 : Time Limet Exceeded
+    // 푸는 데 걸리는 시간 : 1h 4m
     // 시간 초과가 났다. O(N)이지만 순회하면서 많은 연산을 하기 때문에 그런게 아닐까
     public int minIncrementForUnique(int[] nums) {
         int[] numsCount = new int[100001];
