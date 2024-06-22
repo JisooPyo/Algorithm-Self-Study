@@ -39,7 +39,8 @@ public class Leet1552_x {
     // 띄엄띄엄 있을 때는 감을 잘 못 잡겠어서 힌트를 봤더니 이진 검색. 알 듯 말 듯 잘 감이 안 잡혀서
     // 결국 다른 사람 풀이 참고
 
-    // 다른 사람 풀이
+    // 다른 사람 풀이 : 34ms
+    // 시간복잡도 O(N Log N)
     public int maxDistance(int[] position, int m) {
         // 정렬
         Arrays.sort(position);
@@ -60,9 +61,11 @@ public class Leet1552_x {
         return end;
     }
 
+    // mid 거리로 공을 배치했을 때 필요한 공의 개수
     public int dist(int[] nums, int mid) {
-        int count = 1;
-        int last = nums[0];
+        int count = 1;  // 초기 공의 갯수
+        int last = nums[0];     // 첫번째 공의 위치
+        // 현재 공의 위치와 마지막 공의 위치 차이가 mid 이상이면 공 배치, 공 개수 증가
         for (int i = 1; i < nums.length; i++) {
             if (nums[i] - last >= mid) {
                 count++;
