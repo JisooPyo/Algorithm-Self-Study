@@ -16,7 +16,7 @@
 
 <br>
 
-![image](https://github.com/Two-Potatoes/BobJoying-Back/assets/130378232/c68eee5e-901f-4373-9ff4-e0b804eabe8b)
+<img src="https://github.com/JisooPyo/Sesak-DevOps/assets/130378232/055bfc6d-c2fd-49bc-a3d9-3a8fe651f6e4" width="500px">
 
 ## 1️⃣ Programmers
 
