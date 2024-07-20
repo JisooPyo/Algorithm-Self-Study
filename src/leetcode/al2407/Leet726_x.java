@@ -27,7 +27,7 @@ import java.util.TreeMap;
 public class Leet726_x {
     public static void main(String[] args) {
         Leet726_x l = new Leet726_x();
-        System.out.println(l.countOfAtoms("H2O"));  // "H2O"
+        // System.out.println(l.countOfAtoms("H2O"));  // "H2O"
         System.out.println(l.countOfAtoms("Mg(OH)2"));  // "H2MgO2"
         System.out.println(l.countOfAtoms("K4(ON(SO3)2)2"));    // "K4(ON(SO3)2)2"
     }
