@@ -1,4 +1,4 @@
-package leetcode.al2407;
+package leetcode.al2408;
 
 /**
  * Medium
