@@ -37,6 +37,8 @@ Programmers lv.1 완료 ✔
 
 ![image](https://github.com/JisooPyo/My-Study/assets/130378232/fdd15c4e-d3c0-4a26-9305-e5e0cb563b9b)
 
++) 2024 KAKAO WINTER INTERNSHIP 가장 많이 받은 선물
+
 </details>
 
 <details>
