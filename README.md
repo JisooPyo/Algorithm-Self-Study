@@ -1,18 +1,16 @@
 # Algorithm study
 
-알고리즘 문제 풀이 기록.
+알고리즘 문제 풀이 기록 저장소
 
 * 현재 진행 과정
 
 ```text
-* <코딩 테스트 합격자 되기 - 자바 편> 책 스터디
+<코딩 테스트 합격자 되기 - 자바 편> 책 스터디
 
 하루에 문제 한 개 이상 풀기.
 ```
 
 <br>
-
-<img src="https://github.com/JisooPyo/Sesak-DevOps/assets/130378232/055bfc6d-c2fd-49bc-a3d9-3a8fe651f6e4" width="500px">
 
 ## 1️⃣ 책 문제
 
@@ -26,6 +24,7 @@
 
 </details>
 
+<br>
 
 ## 2️⃣ Programmers
 
@@ -151,7 +150,7 @@ Programmers lv.3
 
 ### 1. LeetCode Stats Card
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/JisooPyo?theme=nord&font=IBM%20Plex%20Mono&ext=activity)
+![LeetCode Stats](https://leetcard.jacoblin.cool/JisooPyo?theme=nord&font=IBM%20Plex%20Mono)
 
 <br>
 
