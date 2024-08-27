@@ -2,23 +2,32 @@
 
 알고리즘 문제 풀이 기록.
 
+* 현재 진행 과정
+
 ```text
-* 매일 Leetcode 1문제 이상 풀기
+* <코딩 테스트 합격자 되기 - 자바 편> 책 스터디
 
-* 푼 문제
-1. Leet{문제번호}로 class 생성하여 commit
-2. 다른 사람의 풀이 중 더 효율적이거나 좋은 아이디어가 있으면 주석으로 기록
-
-* 풀리지 않은 문제  
-1. Leet{문제번호}_x로 Rename
-2. 다른 사람의 풀이를 올리되, 이해하거나 필요한 부분은 주석으로 설명
+하루에 문제 한 개 이상 풀기.
 ```
 
 <br>
 
 <img src="https://github.com/JisooPyo/Sesak-DevOps/assets/130378232/055bfc6d-c2fd-49bc-a3d9-3a8fe651f6e4" width="500px">
 
-## 1️⃣ Programmers
+## 1️⃣ 책 문제
+
+<details>
+<summary>
+푼 문제
+</summary>
+
+1. 배열 정렬하기
+2. 배열 제어하기
+
+</details>
+
+
+## 2️⃣ Programmers
 
 <details>
 <summary>
@@ -138,7 +147,7 @@ Programmers lv.3
 
 <br>
 
-## 2️⃣ Leetcode
+## 3️⃣ Leetcode
 
 ### 1. LeetCode Stats Card
 
@@ -462,7 +471,7 @@ Trie
 
 <br>
 
-## 3️⃣ 알고리즘 별 문제 풀기
+## 4️⃣ 알고리즘 별 문제 풀기 - Leetcode & Programmers
 
 <details>
 <summary>
