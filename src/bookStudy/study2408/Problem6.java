@@ -15,7 +15,8 @@ public class Problem6 {
         System.out.println(Arrays.toString(p.solution(4, stages2)));    // [4, 1, 2, 3]
     }
 
-    // 시간복잡도
+    // 시간복잡도: O(M + N log N)
+    // M : stages 길이
     public int[] solution(int N, int[] stages) {
         int[] count = new int[N + 2];
         for (int i = 0; i < stages.length; i++) {
