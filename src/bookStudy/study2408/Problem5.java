@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 프로그래머스 lv.2
- * 행렬의 곱셈
+ * 5. 행렬의 곱셈
  */
 public class Problem5 {
     public static void main(String[] args) {

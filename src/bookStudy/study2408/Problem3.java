@@ -6,7 +6,7 @@ import java.util.Set;
 
 /**
  * 프로그래머스 lv.1
- * 두 개 뽑아서 더하기
+ * 3. 두 개 뽑아서 더하기
  */
 public class Problem3 {
     public int[] solution(int[] numbers) {

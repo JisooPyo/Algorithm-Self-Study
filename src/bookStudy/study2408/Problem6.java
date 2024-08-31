@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 프로그래머스 lv.1
- * 실패율
+ * 6. 실패율
  */
 public class Problem6 {
     public static void main(String[] args) {

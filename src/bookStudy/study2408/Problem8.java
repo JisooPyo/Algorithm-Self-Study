@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * 프로그래머스 lv.2
- * 올바른 괄호
+ * 8. 올바른 괄호
  */
 public class Problem8 {
     public static void main(String[] args) {

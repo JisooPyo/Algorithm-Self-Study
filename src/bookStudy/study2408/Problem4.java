@@ -4,7 +4,7 @@ import java.util.Arrays;
 
 /**
  * 프로그래머스 lv.1
- * 모의고사
+ * 4. 모의고사
  */
 public class Problem4 {
     public static void main(String[] args) {

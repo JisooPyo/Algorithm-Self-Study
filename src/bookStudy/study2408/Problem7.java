@@ -2,7 +2,7 @@ package bookStudy.study2408;
 
 /**
  * 프로그래머스 lv.2
- * 방문 길이
+ * 7. 방문 길이
  */
 public class Problem7 {
     public static void main(String[] args) {
