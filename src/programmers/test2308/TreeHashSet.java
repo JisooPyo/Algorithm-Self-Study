@@ -1,5 +1,5 @@
 // 두 개 뽑아서 더하기
-package programmers.test2308.t0810;
+package programmers.test2308;
 
 import java.util.Arrays;
 import java.util.HashSet;
