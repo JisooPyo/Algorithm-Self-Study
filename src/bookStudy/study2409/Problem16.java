@@ -23,6 +23,8 @@ public class Problem16 {
         System.out.println(Arrays.toString(p.solution(progresses2, speeds2)));  // [1, 3, 2]
     }
 
+    // 처음에 각 작업별 배포 가능일을 계산해두는 것도 좋았을 것!
+    // 꼭 Queue를 이용하지 않아도 되는 문제!
     public int[] solution(int[] progresses, int[] speeds) {
         // Queue에 현재 작업 진도 입력
         Queue<Integer> queue = new LinkedList<>();
