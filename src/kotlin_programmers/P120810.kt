@@ -1,4 +1,4 @@
-package programmers.test2410
+package kotlin_programmers
 
 fun main() {
     println(solution(3, 2))     // 1

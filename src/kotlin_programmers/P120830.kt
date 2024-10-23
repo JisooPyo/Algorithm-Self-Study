@@ -1,4 +1,4 @@
-package programmers.test2410
+package kotlin_programmers
 
 /**
  * 프로그래머스 lv.0 양꼬치

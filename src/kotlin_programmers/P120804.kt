@@ -1,4 +1,4 @@
-package programmers.test2410
+package kotlin_programmers
 
 fun main() {
     val p = P120804()
