@@ -1,7 +1,7 @@
 package kotlin_programmers
 
 /**
- * Programmers: 중복된 숫자 개수
+ * Programmers lv.0: 중복된 숫자 개수
  */
 fun main() {
     val p = P120583()
