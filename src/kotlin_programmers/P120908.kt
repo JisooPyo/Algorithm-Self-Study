@@ -13,5 +13,5 @@ fun main() {
 class P120908 {
     fun solution(str1: String, str2: String) = if (str1.contains(str2)) 1 else 2
 
-    fun solutionOther(str1: String, str2: String) = if( str2 in str1 ) 1 else 2
+    fun solutionOther(str1: String, str2: String) = if (str2 in str1) 1 else 2
 }
