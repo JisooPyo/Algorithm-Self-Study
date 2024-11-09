@@ -28,4 +28,6 @@ class P120821 {
     }
 
     fun solutionOther(numList: IntArray) = numList.reversedArray()
+
+    fun solutionOther2(num_list: IntArray) = num_list.reversed()
 }
