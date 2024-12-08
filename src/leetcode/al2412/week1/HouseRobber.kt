@@ -1,19 +1,14 @@
 package leetcode.al2412.week1
 
+import io.kotest.matchers.shouldBe
+import org.junit.jupiter.api.Test
 import kotlin.math.max
 
 /**
  * Leetcode
  * 198. House Robber
  * Medium
- */
-fun main() {
-    val hr = HouseRobber()
-    println(hr.rob(intArrayOf(1, 2, 3, 1)))     // 4
-    println(hr.rob(intArrayOf(2, 7, 9, 3, 1)))  // 12
-}
-
-/**
+ *
  * 사용된 알고리즘: Dynamic Programming
  *
  * i번째 집에서 얻을 수 있는 최대 금액은 다음 두 가지 중 큰 값입니다.
@@ -67,5 +62,13 @@ class HouseRobber {
         }
 
         return current
+    }
+
+    @Test
+    fun test() {
+        rob(intArrayOf(1, 2, 3, 1)) shouldBe 4
+        rob(intArrayOf(2, 7, 9, 3, 1)) shouldBe 12
+        rob2(intArrayOf(1, 2, 3, 1)) shouldBe 4
+        rob2(intArrayOf(2, 7, 9, 3, 1)) shouldBe 12
     }
 }

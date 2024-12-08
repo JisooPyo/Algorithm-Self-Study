@@ -1,17 +1,13 @@
 package leetcode.al2412.week1
 
+import io.kotest.matchers.shouldBe
+import org.junit.jupiter.api.Test
+
 /**
  * Leetcode
  * 125. Valid Palindrome
  * Easy
  */
-fun main() {
-    val vp = ValidPalindrome()
-    println(vp.isPalindrome("A man, a plan, a canal: Panama"))      // true
-    println(vp.isPalindrome("race a car"))                          // false
-    println(vp.isPalindrome(" "))                                   // true
-}
-
 class ValidPalindrome {
     /**
      * Runtime: 4 ms(Beats: 98.27 %)
@@ -90,5 +86,16 @@ class ValidPalindrome {
             right--
         }
         return true
+    }
+
+    @Test
+    fun test() {
+        isPalindrome("A man, a plan, a canal: Panama") shouldBe true
+        isPalindrome("race a car") shouldBe false
+        isPalindrome(" ") shouldBe true
+
+        isPalindrome2("A man, a plan, a canal: Panama") shouldBe true
+        isPalindrome2("race a car") shouldBe false
+        isPalindrome2(" ") shouldBe true
     }
 }

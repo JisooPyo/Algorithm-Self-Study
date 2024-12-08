@@ -1,5 +1,7 @@
 package leetcode.al2412.week1
 
+import io.kotest.matchers.shouldBe
+import org.junit.jupiter.api.Test
 import java.util.*
 
 /**
@@ -7,12 +9,6 @@ import java.util.*
  * 347. Top K Frequent Elements
  * Medium
  */
-fun main() {
-    val tkfe = TopKFrequentElements()
-    println(tkfe.topKFrequent(intArrayOf(1, 1, 1, 2, 2, 3), 2).contentToString())     // [1, 2]
-    println(tkfe.topKFrequent(intArrayOf(1), 1).contentToString())                    // [1]
-}
-
 class TopKFrequentElements {
     /**
      * Runtime: 30 ms(Beats: 68.62 %)
@@ -67,5 +63,14 @@ class TopKFrequentElements {
         override fun compareTo(other: Node): Int {
             return this.count.compareTo(other.count)
         }
+    }
+
+    @Test
+    fun test() {
+        topKFrequent(intArrayOf(1, 1, 1, 2, 2, 3), 2) shouldBe intArrayOf(1, 2)
+        topKFrequent(intArrayOf(1), 1) shouldBe intArrayOf(1)
+
+        topKFrequent2(intArrayOf(1, 1, 1, 2, 2, 3), 2) shouldBe intArrayOf(1, 2)
+        topKFrequent2(intArrayOf(1), 1) shouldBe intArrayOf(1)
     }
 }

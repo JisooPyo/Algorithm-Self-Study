@@ -1,5 +1,7 @@
 package leetcode.al2412.week1
 
+import io.kotest.matchers.shouldBe
+import org.junit.jupiter.api.Test
 import kotlin.math.max
 
 /**
@@ -7,12 +9,6 @@ import kotlin.math.max
  * 128. Longest Consecutive Sequence
  * Medium
  */
-fun main() {
-    val lcs = LongestConsecutiveSequence()
-    println(lcs.longestConsecutive(intArrayOf(100, 4, 200, 1, 3, 2)))           // 4
-    println(lcs.longestConsecutive(intArrayOf(0, 3, 7, 2, 5, 8, 4, 6, 0, 1)))   // 9
-}
-
 class LongestConsecutiveSequence {
     /**
      * Runtime: 58 ms(Beats: 79.06 %)
@@ -72,5 +68,14 @@ class LongestConsecutiveSequence {
             }
         }
         return maxLength
+    }
+
+    @Test
+    fun test() {
+        longestConsecutive(intArrayOf(100, 4, 200, 1, 3, 2)) shouldBe 4
+        longestConsecutive(intArrayOf(0, 3, 7, 2, 5, 8, 4, 6, 0, 1)) shouldBe 9
+
+        longestConsecutive2(intArrayOf(100, 4, 200, 1, 3, 2)) shouldBe 4
+        longestConsecutive2(intArrayOf(0, 3, 7, 2, 5, 8, 4, 6, 0, 1)) shouldBe 9
     }
 }
