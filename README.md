@@ -5,7 +5,7 @@
 * 현재 진행 과정
 
 ```text
-Kotlin으로 기초 문제 풀기
+leetcode study 참여하여 Blind 75 풀이 중
 ```
 
 <br>
